@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AlanJBony
-- 👀 I’m interested in ...Software Skill Developing
-- 🌱 I’m currently learning ... B.tech CSE With Software
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Web Development..Machine Learning..AI
+- 🌱 I’m currently learning ... B.tech CSE Software
+
 
 <!---
 AlanJBony/AlanJBony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
